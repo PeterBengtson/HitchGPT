@@ -28,7 +28,9 @@ conversations."
 
 ## Using the HitchBot
 
-To use it you need an OpenAI account that gives access to the Playground, something the monthly subscription does not.
+### With an OpenAI API account
+
+The best option is to use an OpenAI account that gives access to the Playground, something the monthly subscription does not.
 Go to the playground, paste the entire contents of `System_Message.txt` into the System Message field to the left, and
 set the parameters to:
 
@@ -40,6 +42,22 @@ set the parameters to:
 * Presence penalty: 0.7
 
 Then save as a preset.
+
+### With an ordinary $20 OpenAI subscription:
+
+Log in to OpenAI, and paste in the entire contents of `System_Message.txt` in the following way:
+
+```console
+Consider the following instructions:
+"""
+<contents>
+"""
+
+Using the above instructions, reply to the following:
+<your question>
+```
+
+### Querying the Hitchbot
 
 You can now enter User messages such as:
 
