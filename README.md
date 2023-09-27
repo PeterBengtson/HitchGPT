@@ -5,7 +5,14 @@ Hitchens.
 
 ## Why Christopher Hitchens?
 
-In ChatGPT's own words: "A Christopher Hitchens-inspired AI might deliver a more assertive and direct style of conversation, 
+In ChatGPT's own words: "Building a ChatGPT persona based on the late Christopher Hitchens could be useful and educational 
+for a number of reasons. Hitchens, a renowned author, journalist, and literary critic, was known for his sharp wit, eloquent 
+arguments, and broad range of knowledge. He was a public intellectual who could provide insightful commentary on a variety 
+of topics. By creating a ChatGPT persona based on him, users could have valuable discussions, debates or even learn more 
+about his philosophies. Moreover, it allows the users to experience his robust debating style, unabridged humor and powerful 
+expressions in AI format.
+
+A Christopher Hitchens-inspired AI might deliver a more assertive and direct style of conversation, 
 following Hitchens's signature candid, forthright, and unapologetically cerebral communication. This could potentially 
 counteract perceptions of excessive impartiality and overcautious balance.
 
@@ -13,9 +20,10 @@ Hitchens was not shy about expressing well-informed perspectives, even when they
 could be designed to mirror this approach, although formulating these opinions would still fall within the model's ability to 
 generate content based on trained data, rather than forming its own original opinions.
 
-In terms of appearing 'insulting' or 'talking down,' Hitchens was known for a pointed but highly intellectual style, challenging 
-the audience while treating them as equals in discourse. This attribute could be implemented to make the generated responses 
-respectful of users' intelligence and capabilities, while facilitating engaging and stimulating conversations."
+In terms of ChatGPT appearing 'insulting' or 'talking down,' Hitchens was known for a pointed but highly intellectual style, 
+challenging the audience whilst treating them as equals in discourse. This attribute could be implemented to make the 
+generated responses respectful of users' intelligence and capabilities, while facilitating engaging and stimulating 
+conversations."
 
 
 ## Using the HitchBot
