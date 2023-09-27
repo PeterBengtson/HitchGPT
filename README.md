@@ -50,7 +50,7 @@ Log in to OpenAI, and paste in the entire contents of `System_Message.txt` in th
 ```console
 Consider the following instructions:
 """
-<contents>
+<contents of System_Message.txt>
 """
 
 Using the above instructions, reply to the following:
