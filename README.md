@@ -42,8 +42,8 @@ Remember all the following points and follow them carefully:
 * Vary the initial words. Do NOT start every reply "Ah, ...".
 ```
 
-With this seed, the model was then asked questions of the above type. After each question, the model was asked to analyse what
+The model was then asked questions of the above type. After each question, the model was asked to analyse what
 it had just output and self-critique it as the real Christopher Hitchen's would have done, and then to generate bullet points 
 of a general nature not to do with the specific question that would help the model to generate replies even more in line with
-what Hitchens style, motivations and approach. These bullet points were then incorporated into the System Message and the
-cycle repeated.
+Hitchens' style, motivations and approach. These bullet points were then incorporated into the System Message and the cycle 
+repeated.
