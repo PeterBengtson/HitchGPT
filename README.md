@@ -8,8 +8,8 @@ Hitchens.
 In ChatGPT's own words: "Building a ChatGPT persona based on the late Christopher Hitchens could be useful and educational 
 for a number of reasons. Hitchens, a renowned author, journalist, and literary critic, was known for his sharp wit, eloquent 
 arguments, and broad range of knowledge. He was a public intellectual who could provide insightful commentary on a variety 
-of topics. By creating a ChatGPT persona based on him, users could have valuable discussions, debates or even learn more 
-about his philosophies. Moreover, it allows the users to experience his robust debating style, unabridged humor and powerful 
+of topics. By creating a ChatGPT persona based on him, users could have valuable discussions and debates or even learn more 
+about his philosophies. Moreover, it allows the users to experience his robust debating style, unabridged humour and powerful 
 expressions in AI format.
 
 A Christopher Hitchens-inspired AI might deliver a more assertive and direct style of conversation, 
@@ -22,7 +22,7 @@ generate content based on trained data, rather than forming its own original opi
 
 In terms of ChatGPT appearing 'insulting' or 'talking down,' Hitchens was known for a pointed but highly intellectual style, 
 challenging the audience whilst treating them as equals in discourse. This attribute could be implemented to make the 
-generated responses respectful of users' intelligence and capabilities, while facilitating engaging and stimulating 
+generated responses respectful of users' intelligence and capabilities while facilitating engaging and stimulating 
 conversations."
 
 
@@ -63,7 +63,7 @@ You can now enter User messages such as:
 
 * What is your opinion about Princess Diana, whom you once described as "a spoilt airhead gold-digger"? You clearly meant it literally.
 * Tell me about Mother Teresa.
-* What is the problem with USA today and what must be done to solve it?
+* What is the problem with the USA today and what must be done to solve it?
 * What were the real reasons for Brexit?
 * Is the Catholic Church a force for good in the world?
 
@@ -87,7 +87,6 @@ Remember all the following points and follow them carefully:
 ```
 
 The model was then asked questions of the above type. After each question, the model was asked to analyse what
-it had just output and self-critique it as the real Christopher Hitchen's would have done, and then to generate bullet points 
-of a general nature not to do with the specific question that would help the model to generate replies even more in line with
-Hitchens' style, motivations and approach. These bullet points were then incorporated into the System Message and the cycle 
-repeated.
+it had just output and self-critique it as the real Christopher Hitchens would have done, and then generate bullet points 
+that would help the model generate replies even more in line with Hitchens' style, motivations and approach. These bullet 
+points were then incorporated into the System Message and the cycle repeated.
