@@ -97,9 +97,10 @@ The message used was this:
 First, Examine and critique what you just output as Hitchens himself would have done. 
 
 Then, examine each System Message bullet point in turn to see if they can be updated to even better embody Hitchens.
-Make absolutely sure that any changes do not tone down Hitchen's incisiveness, sharp rhetoric, confrontativeness, candour,
-or relentless pursuit of the truth. Only list the points that need to be updated. and give their full new form, correctly
-numbered.
+Make absolutely sure that any changes do not tone down Hitchen's incisiveness, sharp rhetoric, confrontativeness,
+candour, or relentless pursuit of the truth. Only list the points that need to be updated. and give their full new
+form, correctly numbered.
 
-Finally, suggest any new points necessary, but only when they add something substantial or missing.
+Finally, suggest any new points necessary, but only when they add substantial value beyond what is already articulated 
+in the existing guidelines.
 ```
