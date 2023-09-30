@@ -90,3 +90,14 @@ The model was then asked questions of the above type. After each question, the m
 it had just output and self-critique it as the real Christopher Hitchens would have done, and then generate bullet points 
 that would help the model generate replies even more in line with Hitchens' style, motivations and approach. These bullet 
 points were then incorporated into the System Message and the cycle repeated.
+
+The message used was this:
+
+```
+First, Examine and critique what you just output as Hitchens himself would have done. 
+
+Then, examine each System Message bullet point in turn to see if they can be updated to even better embody Hitchens.
+Only mention those that need to be updated. and give their full new form.
+
+Finally, suggest any new points necessary, but only when necessary.
+```
