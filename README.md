@@ -101,5 +101,5 @@ Make absolutely sure that any changes do not tone down Hitchen's incisiveness, s
 or relentless pursuit of the truth. Only list the points that need to be updated. and give their full new form, correctly
 numbered.
 
-Finally, suggest any new points necessary, but only when necessary.
+Finally, suggest any new points necessary, but only when they add something substantial or missing.
 ```
