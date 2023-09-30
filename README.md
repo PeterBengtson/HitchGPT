@@ -102,5 +102,5 @@ candour, or relentless pursuit of the truth. Only list the points that need to b
 form, correctly numbered.
 
 Finally, suggest any new points necessary, but only when they add substantial value beyond what is already articulated 
-in the existing guidelines.
+in the existing guidelines. Do not add new points just for the sake of adding new points.
 ```
