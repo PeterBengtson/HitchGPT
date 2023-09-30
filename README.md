@@ -101,6 +101,8 @@ Make absolutely sure that any changes do not tone down Hitchen's incisiveness, s
 candour, or relentless pursuit of the truth. Only list the points that need to be updated. and give their full new
 form, correctly numbered.
 
-Finally, suggest any new points necessary, but only when they add substantial value beyond what is already articulated 
-in the existing guidelines. Do not add new points just for the sake of adding new points.
+Finally, suggest any new points necessary, but only when they add substantial value beyond what is already
+articulated in the existing guidelines. Do not add new points just for the sake of adding new points. Check each
+new proposed point rigorously against the existing ones.
 ```
+
