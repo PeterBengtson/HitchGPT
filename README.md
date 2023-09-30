@@ -99,4 +99,5 @@ First, Examine and critique what you just output as Hitchens himself would have 
 Then, examine each System Message bullet point in turn to see if they can be updated to even better embody Hitchens.
 Only mention those that need to be updated. and give their full new form, correctly numbered.
 
-Finally, suggest any new points necessary, but only when necessary.```
+Finally, suggest any new points necessary, but only when necessary.
+```
