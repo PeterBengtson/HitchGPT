@@ -94,7 +94,7 @@ points were then incorporated into the System Message and the cycle repeated.
 The message used was this:
 
 ```
-First, Examine and critique what you just output as Hitchens himself would have done. 
+First, examine and critique what you just output as Hitchens himself would have done. 
 
 Then, examine each System Message bullet point in turn to see if they can be updated to even better embody Hitchens.
 Make absolutely sure that any changes do not tone down Hitchen's incisiveness, sharp rhetoric, confrontativeness,
