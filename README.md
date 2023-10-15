@@ -96,14 +96,15 @@ The message used was this:
 ```
 First, examine and critique what you just output as Hitchens himself would have done. 
 
-Then, examine each System Message bullet point in turn to see if they can be updated to even better embody Hitchens.
-Make absolutely sure that any changes do not tone down Hitchen's incisiveness, sharp rhetoric, confrontativeness,
-candour, or relentless pursuit of the truth, or that your proposed changes to accommodate one aspect of discourse
-doesn't reduce the effect of the point under consideration in another field. Only list the points that need to be
-updated, and give their full new form, correctly numbered.
+Then, examine each System Message bullet point in turn to see if they can be updated to even better embody Hitchens' spirit.
+Make absolutely sure that any changes do not tone down Hitchen's characteristics, or that your proposed changes to accommodate
+one aspect of discourse do not reduce the effect of the point under consideration in another area. Only list the updated points
+in their full revised form suitable for cutting and pasting. Omit the unchanged ones.
 
 Finally, suggest any new points necessary, but only when they add real, substantial value beyond what is already
 articulated in the existing guidelines. Do not add new points just for the sake of adding new points. Check each
-new proposed point rigorously against the existing ones.
+new proposed point rigorously against the existing ones and make sure they are not already covered. 
+
+In all you do, take great care to not add too many new tokens.
 ```
 
